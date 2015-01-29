@@ -4,7 +4,7 @@ Submit your Golang Programming Challenge Solution via GitHub!
 
 ## Here is what to do
 
-_Do the following only on 14th and 15th of the month, not before._
+_Do the following only on 14th and 15th of the month, **not before**._
 
 1. Fork this repository
 2. Copy the sample folder `example/` to `solution-firstname_middlename_lastname`
@@ -19,5 +19,5 @@ Please don't delete the example folder, as this will delete it in master when yo
 You can add any type of assets to support your proposal inside your folder.
 When a talk gets accepted we will press the lovely green merge button.
 
-Solutions will be accepted until the midnight of 15th March, 2015 IST.
+Solutions will be accepted till the midnight of 15th March, 2015 IST.
 
