@@ -12,4 +12,7 @@ My bio.
 - Explanation (if any):
 - Test cases (if any):
 
-**Note**: Use URL [https://gist.github.com/](https://gist.github.com/) and Create Secret Gist using language Go.
+**Note**: 
+
+* Use URL [https://gist.github.com/](https://gist.github.com/) and Create Secret Gist using language Go.
+* You should add comments to certain portions of the solution so that others can understand why you has used it in a particular fashion.
