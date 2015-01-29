@@ -4,6 +4,8 @@ Submit your Golang Programming Challenge Solution via GitHub!
 
 ## Here is what to do
 
+_Do the following only on 14th and 15th of the month, not before._
+
 1. Fork this repository
 2. Copy the sample folder `example/` to `solution-firstname_middlename_lastname`
 3. Edit the `README.md` file and type a good description about your solution and about yourself
