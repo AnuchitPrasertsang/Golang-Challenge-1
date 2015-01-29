@@ -16,7 +16,7 @@ _Do the following only on the 14th and 15th of March 2015, **not before**._
 
 Please don't delete the `example/` folder, as this will delete it in the master when your pull request gets merged.
 
-You can add any type of assets to support your proposal inside your folder.
+You can add any type of assets to support your solution inside your folder.
 
 Solutions will be accepted till the midnight of 15th March, 2015 IST.
 
